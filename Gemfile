@@ -61,3 +61,5 @@ end
   gem 'net-imap', '~> 0.2'
   gem 'net-pop', '~> 0.1'
   gem 'net-smtp', '~> 0.3'
+
+  gem 'dotenv-rails'
